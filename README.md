@@ -1,2 +1,2 @@
 # wizdom-stremio
-wizdom.xyz addon for stremio
+DEPRECATED. Currently working on wizdom-stremio-v2! will update when it's ready.
